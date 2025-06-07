@@ -174,7 +174,7 @@ I love you, ain't that the worst thing you ever heard?"
 ### 1. Clone the Repository
 First, clone the ACE-Step repository to your local machine and navigate into the project directory:
 ```bash
-git clone https://github.com/ace-step/ACE-Step.git
+git clone https://github.com/saba1999AI/Music_Generation
 cd ACE-Step
 ```
 
